@@ -1,0 +1,9 @@
+[submodule "rails"]
+	path = rails
+	url = git://github.com/rails/rails.git
+[submodule "ruby"]
+	path = ruby
+	url = git://github.com/ruby/ruby.git
+[submodule "manservant"]
+	path = manservant
+	url = git://github.com/jimeh/manservant.git
